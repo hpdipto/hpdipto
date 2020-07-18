@@ -1,4 +1,12 @@
 ### Hi there 👋
+## I'm Haris Pasha Dipto
+
+![My Photo](https://i.imgur.com/69mvxUp.jpg)
+
+### Currently I'm Learning web development with MERN Stack.
+
+I'm little bit active on Twitter. Follow me [@hpdipto](https://twitter.com/hpdipto)
+
 
 <!--
 **hpdipto/hpdipto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
