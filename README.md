@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Haris Pasha Dipto
 
-![My Photo](https://i.imgur.com/69mvxUp.jpg)
+![Coding Illustration](https://imgur.com/fbF07Iy)
 
 ### Currently I'm Learning web development with MERN Stack.
 
