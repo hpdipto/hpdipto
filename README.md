@@ -48,11 +48,15 @@ I'm open to:
 
 ## 📈 GitHub Stats
 
+<div align="center">
+
 ![Haris's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=hpdipto&langs_count=10&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte)
 
 ![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpdipto&show_icons=true&theme=catppuccin_latte)
 
 ![Haris's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hpdipto&theme=catppuccin_latte)
+
+</div>
 
 ## 📫 How to Reach Me
 
