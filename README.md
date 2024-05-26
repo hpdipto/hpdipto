@@ -4,20 +4,20 @@
 	<img src="./banner.png" height="300" width="300"/>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hpdipto&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=hpdipto&color=5E81AC&style=for-the-badge)
 
 I'm a passionate developer with a keen interest in 🚀 backend development. I love to create, innovate, and contribute to open-source projects. 💡
 
 ## 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Neovim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=neovim)
+![Python](https://img.shields.io/badge/-Python-E5E9F0?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/-Go-E5E9F0?style=for-the-badge&logo=go)
+![Node.js](https://img.shields.io/badge/-Node.js-E5E9F0?style=for-the-badge&logo=node.js)
+![Bash](https://img.shields.io/badge/-Bash-E5E9F0?style=for-the-badge&logo=gnu-bash)
+![JavaScript](https://img.shields.io/badge/-JavaScript-E5E9F0?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-E5E9F0?style=for-the-badge&logo=react)
+![Docker](https://img.shields.io/badge/-Docker-E5E9F0?style=for-the-badge&logo=docker)
+![Neovim](https://img.shields.io/badge/-Neovim-E5E9F0?style=for-the-badge&logo=neovim)
 
 <!-- ## 🛠️ Projects
 
