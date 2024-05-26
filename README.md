@@ -1,7 +1,8 @@
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Haris</h2>
 
-<img src="./banner.png" align="center"/>
-<h3></h3>
+<div align="center">
+	<img src="./banner.png" height="300" width="300"/>
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hpdipto&color=blue)
 
