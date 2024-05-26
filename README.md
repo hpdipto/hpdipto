@@ -1,19 +1,7 @@
-<div style="background-color: #2E3440; color: #D8DEE9; padding: 20px;">
-<style>
-	a {
-		color: #8FBCBB;
-		text-decoration: none;
-	}
-	a:hover {
-		color: #81A1C1;
-	}
-</style>
-
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Haris</h2>
 
-<img src="./banner.webp" align="center"/>
-
-<br />
+<img src="./banner.png" align="center"/>
+<h3></h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hpdipto&color=blue)
 
@@ -59,11 +47,11 @@ I'm open to:
 
 ## 📈 GitHub Stats
 
-![Haris's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=hpdipto&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nord)
+![Haris's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=hpdipto&langs_count=10&show_icons=true&locale=en&layout=compact&theme=catppuccin_latte)
 
-![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpdipto&show_icons=true&theme=nord)
+![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpdipto&show_icons=true&theme=catppuccin_latte)
 
-![Haris's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hpdipto&theme=nord)
+![Haris's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hpdipto&theme=catppuccin_latte)
 
 ## 📫 How to Reach Me
 
@@ -78,7 +66,3 @@ I've completed my major in Mechatronics Engineering, but my passion leads me to 
 ---
 
 Thanks for visiting my GitHub profile. Feel free to check out my repositories and get in touch if you'd like to collaborate! 🤝
-
-![Profile Views](https://komarev.com/ghpvc/?username=hpdipto&style=flat-square)
-
-</div>
